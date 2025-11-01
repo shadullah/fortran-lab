@@ -1,0 +1,14 @@
+1. Round the numbers of input***
+2. Max minimum from file***
+3. Calc avg, rms, geo mean, har mean***
+4. Lsq corelation coffiecient 
+5. Dot product of 3 dimen vector***
+6. Cross product of 3 dimen ***
+7. Union intersection 
+8. Subroutine to find max min from a range***
+9. Subroutine to calc a discrete fn
+10. Subroutine lsqfit
+11. Subroutine lsqfit that calc correlation coefficient 
+12. Program sum rows cols (array) easy***
+13. Matrix multiply ***
+14. Matrix multiply with prev input ***
